@@ -7,4 +7,9 @@ Analysis
 design
 
 Methods
+waterfall
+Scrum
+Spiral
+lean
+Agile
 
