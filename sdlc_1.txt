@@ -1,4 +1,5 @@
 Definition
+sdlc stand for Software developmen lyfe cycle
 
 stages of SDLC
 
